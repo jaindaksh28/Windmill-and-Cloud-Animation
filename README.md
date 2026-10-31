@@ -1,2 +1,5 @@
-# Windmill-and-Cloud-Animation
-2D Windmill and Cloud Animation created using Adobe Animate.
+## YouTube Video
+
+Watch the project creation and animation demonstration:
+
+[Watch on YouTube](https://youtu.be/O8D4qkZI_OM)
